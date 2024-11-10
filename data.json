@@ -1,5 +1,6 @@
 {
-    "matchingPattern": "50%",
+    "matchingPattern": "20%",
     "webhooks": [
+        "http://localhost:3000/webhook"
     ]
 }
